@@ -38,7 +38,8 @@
 
 # TABLE
 
-![WhatsApp Image 2025-04-25 at 20 41 22_87e831db](https://github.com/user-attachments/assets/555fc785-39a8-4e87-9155-b21e8cbb7f79)
+
+![WhatsApp Image 2025-04-25 at 20 57 56_ed7a9fe4](https://github.com/user-attachments/assets/92fa0a40-3c23-45fa-9a7a-777349f372a9)
 
 
 # OUTPUT GRAPHS
